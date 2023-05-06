@@ -9,6 +9,6 @@
 
 🌱I am currently engaged in an **internship** where I am applying machine learning techniques to **cyber security**
 
-💻 You can find more information about me and my work on my **LinkedIn profile**: www.linkedin.com/in/nescio98.
+💻 You can find more informations about me and my works on my **LinkedIn profile**: www.linkedin.com/in/nescio98.
 
 📫 You can reach me at simopalla98@gmail.com
