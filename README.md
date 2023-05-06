@@ -1,16 +1,14 @@
-### Hi there 👋
+### Nescio98💻
 
 <!--
-**Nescio98/nescio98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nescio98/nescio98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+👋 Hello everyone, my name is Simone and I'm a **computer engineer** graduated from the University of Genoa (IT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 My interests are both **software engineering** and **artificial intelligence**, with a particular focus on *machine learning*.
+
+🌱I am currently engaged in an **internship** where I am applying machine learning techniques to **cyber security**
+
+💻 You can find more information about me and my work on my **LinkedIn profile**: www.linkedin.com/in/nescio98.
+
+📫 You can reach me at simopalla98@gmail.com
