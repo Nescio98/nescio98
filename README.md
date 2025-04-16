@@ -11,4 +11,4 @@
 
 💻 You can find more information about me and my work on my **LinkedIn profile**: [www.linkedin.com/in/nescio98](https://www.linkedin.com/in/nescio98).
 
-📫 You can reach me at **simopalla98@gmail.com**.
+📫 You can reach me at **hello.palladino@proton.me**.
